@@ -7,4 +7,3 @@
 ```
 using
 ```
-https://github.com/morheus9/gpt_bot_terminal
