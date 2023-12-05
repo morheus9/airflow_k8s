@@ -3,6 +3,8 @@
 # Titanic
 ## Basic tensorflow model without gpu
 
+![Screenshot](input/img_for_github/Titanic.jpg)
+
 ```
  .
 ```
