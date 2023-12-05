@@ -4,6 +4,6 @@
 ## Basic tensorflow model without gpu
 
 ```
-.
+ .
 ```
 
